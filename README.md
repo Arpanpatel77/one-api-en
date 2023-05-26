@@ -1,15 +1,11 @@
 <p align="center">
   <a href="https://github.com/songquanpeng/one-api"><img src="https://raw.githubusercontent.com/songquanpeng/one-api/main/web/public/logo.png" width="150" height="150" alt="one-api logo"></a>
 </p>
-
 <div align="center">
-
-# One API
-
-_✨ All in one 的 OpenAI 接口，整合各种 API 访问方式，开箱即用✨_
+One API
+✨ An all-in-one OpenAI interface that integrates various API access methods, ready to use out of the box. ✨
 
 </div>
-
 <p align="center">
   <a href="https://raw.githubusercontent.com/songquanpeng/one-api/main/LICENSE">
     <img src="https://img.shields.io/github/license/songquanpeng/one-api?color=brightgreen" alt="license">
@@ -27,19 +23,18 @@ _✨ All in one 的 OpenAI 接口，整合各种 API 访问方式，开箱即用
     <img src="https://goreportcard.com/badge/github.com/songquanpeng/one-api" alt="GoReportCard">
   </a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/songquanpeng/one-api/releases">程序下载</a>
+  <a href="https://github.com/songquanpeng/one-api/releases">Program Download</a>
   ·
-  <a href="https://github.com/songquanpeng/one-api#部署">部署教程</a>
+  <a href="https://github.com/songquanpeng/one-api#Deployment">Deployment Tutorial</a>
   ·
-  <a href="https://github.com/songquanpeng/one-api/issues">意见反馈</a>
+  <a href="https://github.com/songquanpeng/one-api/issues">Feedback</a>
   ·
-  <a href="https://github.com/songquanpeng/one-api#截图展示">截图展示</a>
+  <a href="https://github.com/songquanpeng/one-api#Screenshot">Screenshots</a>
   ·
-  <a href="https://openai.justsong.cn/">在线演示</a>
+  <a href="https://openai.justsong.cn/">Online Demo</a>
   ·
-  <a href="https://github.com/songquanpeng/one-api#常见问题">常见问题</a>
+  <a href="https://github.com/songquanpeng/one-api#FAQ">FAQ</a>
 </p>
 
 > **Warning**：从 `v0.2` 版本升级到 `v0.3` 版本需要手动迁移数据库，请手动执行[数据库迁移脚本](./bin/migration_v0.2-v0.3.sql)。
