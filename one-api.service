@@ -3,9 +3,9 @@ Description=One API Service
 After=network.target
 
 [Service]
-User=yourusername                  # 守护进程用户名
-WorkingDirectory=/path/to/One-API  # One API运行路径
-ExecStart=/path/to/One-API/one-api --port 3000 --log-dir /path/to/One-API/logs  # 端口
+User=yourusername                  # Daemon process username
+WorkingDirectory=/path/to/One-API  # One API runtime path
+ExecStart=/path/to/One-API/one-api --port 3000 --log-dir /path/to/One-API/logs  # port
 Restart=always
 RestartSec=5
 
